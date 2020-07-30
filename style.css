@@ -9,21 +9,21 @@ h1 {
 	font-size: 32pt;
 	font-weight: normal;
 	margin: 0;
-	color: #3176AF;
+	color: #61210F;
 }
 
 h2 {
 	font-size: 16pt;
 	font-weight: normal;
 	font-style: italic;
-	color: #90AFC5;
+	color: #C17767;
 	margin: 5px 0 0 0;
 }
 
 h3 {
 	font-size: 14pt;
 	font-weight: bold;
-	color: #333;
+	color: #0C1713;
 	margin: 10px 0 0 0;
 	padding: 0;
 }
@@ -33,7 +33,7 @@ h3 {
 	padding: 0;
 	margin: 0;
 	height: 5px;
-	background: #3176AF;
+	background: #61210F;
 }
 
 #content {
@@ -65,7 +65,7 @@ p {
 	padding: 0;
 	margin: 0;
 	line-height: 1.5em;
-	color: #333;
+	color: #0C1713;
 	font-size: 12pt;
 }
 
@@ -75,11 +75,11 @@ p {
 }
 
 a {
-	color: #3176AF;
+	color: #61210F;
 }
 
 a:hover {
-	color: #333;
+	color: #0C1713;
 }
 
 #nav ul li a {
@@ -88,7 +88,7 @@ a:hover {
 }
 
 #nav ul li:hover {
-	background: #3176AF;
+	background: #61210F;
 }
 
 #nav ul li:hover a {
@@ -103,7 +103,7 @@ a:hover {
 	line-height: 1.5em;
 	margin: 0 0 .5em 0;
 	font-size: 12pt;
-	color: #333;
+	color: #0C1713;
 }
 
 #content ul {

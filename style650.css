@@ -9,14 +9,14 @@ h1 {
 	font-size: 28pt;
 	font-weight: normal;
 	margin: 0;
-	color: #3176AF;
+	color: #61210F;
 }
 
 h2 {
 	font-size: 13pt;
 	font-weight: normal;
 	font-style: italic;
-	color: #90AFC5;
+	color: #C17767;
 	margin: 5px 0 0 0;
 }
 
@@ -33,7 +33,7 @@ h3 {
 	padding: 0;
 	margin: 0;
 	height: 5px;
-	background: #3176AF;
+	background: #61210F;
 }
 
 #content {
@@ -58,14 +58,14 @@ h3 {
 	margin: 0;
 	list-style-type: none;
 	display: inline-block;
-	color: #003B46;
+	color: #61210F;
 }
 
 p {
 	padding: 0;
 	margin: 0;
 	line-height: 1.5em;
-	color: #333;
+	color: #0C1713;
 	font-size: 11pt;
 	width: 100%;
 }
@@ -76,11 +76,11 @@ p {
 }
 
 a {
-	color: #3176AF;
+	color: #61210F;
 }
 
 a:hover {
-	color: #333;
+	color: #0C1713;
 }
 
 #nav ul li a {
@@ -89,7 +89,7 @@ a:hover {
 }
 
 #nav ul li:hover {
-	background: #3176AF;
+	background: #61210F;
 }
 
 #nav ul li:hover a {
@@ -105,7 +105,7 @@ a:hover {
 	margin: 0 0 .5em 0;
 	padding: 0 10px 0 10px;
 	font-size: 11pt;
-	color: #333;
+	color: #0C1713;
 }
 
 #content ul {
